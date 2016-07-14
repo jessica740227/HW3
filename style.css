@@ -1,0 +1,36 @@
+table {
+    background-color: #ffc;
+    padding: 5px;
+    height: 188px;
+}
+.right_border {
+    border-right:dashed 1px #ffbf11;
+}
+.yellow {
+    width: 40px;
+    height: 40px;
+    background-color:#ffbf11;
+    text-align: center;
+    line-height: 40px;
+    color: #000;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: arial;
+}
+.red {
+    width: 40px;
+    height: 40px;
+    background-color:#e20010;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: arial;
+}
+.txt_red {
+    color: #e20010;
+    font-weight: bold;
+}
